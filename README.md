@@ -14,6 +14,8 @@
 ### Project Overview
 This sales trend data analysis aims to understand what drives the success of retail stores at Walmart. By analyzing weekly sales data of various stores at Walmart, under various conditions (seasons - Holiday and Non-Holiday). We seek to identify trends, make detailed data-driven recommendations, and gain a deeper understanding of each retail store's weekly performance.
 
+<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/228a9a1d-8ee6-4541-b9b8-a42d7ce65eb9" />
+
 ### Data Source
 Sales_Data: The primary dataset used in this analysis is the "Walmart_Sales.csv" file, containing detail report of weekely sales made by each retail store on holiday seasons and non-holiday seasons.
 Source : Kaggles Open Source
